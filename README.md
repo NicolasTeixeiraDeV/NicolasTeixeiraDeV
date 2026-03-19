@@ -7,7 +7,6 @@ Tenho buscado aprender na prática, desenvolvendo projetos e explorando novas te
 
 Atualmente estudo JavaScript, React e Node.js, com foco em evoluir cada vez mais e conquistar minha primeira oportunidade na área de tecnologia. 🚀
 </p>
-###
 
 <h6 align="center">tecnologias</h6>
 
