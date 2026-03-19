@@ -38,5 +38,4 @@
 </div>
 
 ###
-
-![pacman](https://raw.githubusercontent.com/NicolasTeixeiraDeV/SEU_REPO/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/NicolasTeixeiraDeV/NicolasTeixeiraDeV/output/github-contribution-grid-snake-dark.svg)
