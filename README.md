@@ -38,4 +38,5 @@
 </div>
 
 ###
+
 ![snake](https://raw.githubusercontent.com/NicolasTeixeiraDeV/NicolasTeixeiraDeV/output/github-contribution-grid-snake-dark.svg)
