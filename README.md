@@ -1,12 +1,12 @@
+
 <h2 align="center">👨‍💻 Sobre mim</h2>
 
 <p align="center">
-💻 Desenvolvedor Full Stack em formação <br>
-🚀 Buscando minha primeira oportunidade na área de tecnologia <br>
-📚 Focado em JavaScript, React e Node.js <br>
-🎯 Comprometido com evolução constante e criação de projetos reais  
-</p>
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em formação como Desenvolvedor Full Stack.<br>
+Tenho buscado aprender na prática, desenvolvendo projetos e explorando novas tecnologias.<br><br>
 
+Atualmente estudo JavaScript, React e Node.js, com foco em evoluir cada vez mais e conquistar minha primeira oportunidade na área de tecnologia. 🚀
+</p>
 ###
 
 <h6 align="center">tecnologias</h6>
