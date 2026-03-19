@@ -1,9 +1,11 @@
-## 👨‍💻 Sobre mim
+<h2 align="center">👨‍💻 Sobre mim</h2>
 
-💻 Desenvolvedor Full Stack em formação  
-🚀 Buscando minha primeira oportunidade na área de tecnologia  
-📚 Focado em JavaScript, React e Node.js  
+<p align="center">
+💻 Desenvolvedor Full Stack em formação <br>
+🚀 Buscando minha primeira oportunidade na área de tecnologia <br>
+📚 Focado em JavaScript, React e Node.js <br>
 🎯 Comprometido com evolução constante e criação de projetos reais  
+</p>
 
 ###
 
