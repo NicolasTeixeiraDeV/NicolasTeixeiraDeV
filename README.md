@@ -1,8 +1,13 @@
-<h3 align="center">Olá, meu nome é Nicolas!<br>Sou estudante de Análise e Desenvolvimento de Sistemas com foco em aprendizado Full Stack Web.</h3>
+## 👨‍💻 Sobre mim
+
+💻 Desenvolvedor Full Stack em formação  
+🚀 Buscando minha primeira oportunidade na área de tecnologia  
+📚 Focado em JavaScript, React e Node.js  
+🎯 Comprometido com evolução constante e criação de projetos reais  
 
 ###
 
-<h6 align="center">tecnologias</h6>
+<h6 align="center">Tecnologias</h6>
 
 ###
 
