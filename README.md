@@ -4,8 +4,7 @@
 <p align="center">
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou em formação como Desenvolvedor Full Stack.<br>
 Tenho buscado aprender na prática, desenvolvendo projetos e explorando novas tecnologias.<br><br>
-
-Atualmente estudo JavaScript, React e Node.js, com foco em evoluir cada vez mais e conquistar minha primeira oportunidade na área de tecnologia. 🚀
+Atualmente estudo JavaScript, React e Node.js, com foco em evoluir cada vez mais e conquistar minha primeira oportunidade na área de tecnologia. 
 </p>
 
 <h6 align="center">tecnologias</h6>
