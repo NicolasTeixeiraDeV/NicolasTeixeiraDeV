@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="center">Tecnologias</h6>
+<h6 align="center"> Tecnologias </h6>
 
 ###
 
