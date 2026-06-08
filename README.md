@@ -26,27 +26,6 @@ Tenho focado em aplicar na prática os conceitos de Clean Code, SOLID e padrões
 
 ---
 
-## 🚀 Projetos em Destaque
-
-> 💡 *Dica: Destaque aqui as APIs que você construiu que possuem regras de negócio mais complexas (como sistemas de login, pagamentos ou CRUDS completos).*
-
-### 🛠️ [Nome da API / Projeto Principal](link-do-repositorio)
-API RESTful desenvolvida para [descreva a principal função do projeto, ex: gerenciar o fluxo de uma barbearia / e-commerce].
-* **Tecnologias utilizadas:** Node.js, TypeScript, Express, PostgreSQL.
-* **Destaques técnicos:** Autenticação JWT com controle de rotas privadas, validação de dados com Zod, tratamento global de erros e arquitetura organizada em camadas.
-
-### ☕ [Nome do Projeto em Java](link-do-repositorio)
-[Breve descrição do projeto em Java, ex: API REST com Spring Boot ou Sistema de Gerenciamento orientado a objetos].
-* **Tecnologias utilizadas:** Java, [ex: Spring Boot / Maven / Hibernate].
-* **Destaques técnicos:** Aplicação rigorosa dos pilares da POO (Programação Orientada a Objetos) e persistência de dados eficiente.
-
-### 🐍 [Nome do Projeto em Python](link-do-repositorio)
-[Breve descrição, ex: API para microsserviço ou Script de Automação] focado em [objetivo do projeto].
-* **Tecnologias utilizadas:** Python, [Framework ex: FastAPI / Flask], SQLite.
-* **Destaques técnicos:** Integração com APIs de terceiros e manipulação otimizada de dados.
-
----
-
 ## 📈 Objetivos de Evolução Profissional
 
 * Implementação rigorosa de Testes Automatizados (**Jest**, Supertest, JUnit, PyTest).
