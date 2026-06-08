@@ -36,8 +36,9 @@ Tenho focado em aplicar na prática os conceitos de Clean Code, SOLID e padrões
 
 ## 📬 Vamos nos conectar?
 
-* **LinkedIn:** [Seu Link do LinkedIn](https://linkedin.com/in/seu-usuario)
-* **E-mail:**
+* **LinkedIn:** [Seu Link do LinkedIn](https://www.linkedin.com/in/nicolasteixeiralima?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **E-mail:** nteixeira814@gmail.com 
+
 
 
 
