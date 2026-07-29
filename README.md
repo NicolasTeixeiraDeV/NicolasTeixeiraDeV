@@ -28,7 +28,6 @@ Tenho focado em aplicar na prática os conceitos de Clean Code, SOLID e padrões
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
-* **Arquitetura & Boas Práticas:** REST APIs, Arquitetura em Camadas (MVC), SOLID, Clean Code, Manipulação de Bancos de Dados.
 
 ### **Ambiente & Infraestrutura**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
