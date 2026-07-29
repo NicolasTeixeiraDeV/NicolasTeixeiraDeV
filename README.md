@@ -16,7 +16,7 @@ Tenho focado em aplicar na prática os conceitos de Clean Code, SOLID e padrões
 
 ---
 
-## 🛠️ Stack Tecnológica & Ferramentas
+##  Stack Tecnológica & Ferramentas
 
 ### Back-End & Lógicas
 
