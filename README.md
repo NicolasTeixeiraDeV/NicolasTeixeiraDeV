@@ -29,16 +29,6 @@ Tenho focado em aplicar na prática os conceitos de Clean Code, SOLID e padrões
 
 ---
 
-## 📈 Objetivos de Evolução Profissional
-
-* Implementação rigorosa de Testes Automatizados (**Jest**, Supertest, JUnit, PyTest).
-* Aprofundamento em **Docker** para containerização de aplicações Back-End.
-* Otimização de queries e modelagem avançada de Bancos de Dados (Relacionais e NoSQL).
-
----
-
-
-
 ###
 
 ![snake](https://raw.githubusercontent.com/NicolasTeixeiraDeV/NicolasTeixeiraDeV/output/github-contribution-grid-snake-dark.svg)
