@@ -2,9 +2,12 @@
 
 Desenvolvedor **Back-End Júnior** focado no ecossistema **Python** e **Java**, em formação técnica em Análise e Desenvolvimento de Sistemas.
 
- **Back-End & APIs:** Construção de APIs RESTful robustas e documentadas (Swagger/OpenAPI) utilizando **FastAPI, Django, Flask e Spring Boot**.
+ **Back-End & APIs:** Construção de APIs RESTful robustas e documentadas (Swagger/OpenAPI) utilizando **FastAPI, Django, Flask e Spring Boot**. 
+ 
  **Banco de Dados:** Modelagem, consultas SQL e otimização em **MySQL** e **SQLite**.
+ 
  **Práticas & Qualidade:** Desenvolvimento orientado a boas práticas, aplicando Clean Code, princípios SOLID e lógica de regras de negócio.
+ 
 **Objetivo:** Atuar como **Desenvolvedor Júnior** em equipes ágeis, aplicando desenvolvimento de software focado em resolver problemas reais.
    
 
