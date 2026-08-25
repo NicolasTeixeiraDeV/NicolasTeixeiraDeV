@@ -1,20 +1,13 @@
 # Olá, eu sou o Nicolas Teixeira! 👋
 
-Desenvolvedor **Back-End Júnior** focado no ecossistema **Python** e **Java**, em formação técnica em Análise e Desenvolvimento de Sistemas.
+Desenvolvedor **Back-End Júnior** | Engenheiro de Software em formação, focado no ecossistema **Python** e **Java**, com formação técnica em Análise e Desenvolvimento de Sistemas.
 
- **Back-End & APIs:** Construção de APIs RESTful robustas e documentadas (Swagger/OpenAPI) utilizando **FastAPI, Django, Flask e Spring Boot**. 
- 
- **Banco de Dados:** Modelagem, consultas SQL e otimização em **MySQL** e **SQLite**.
- 
- **Práticas & Qualidade:** Desenvolvimento orientado a boas práticas, aplicando Clean Code, princípios SOLID e lógica de regras de negócio.
- 
-**Objetivo:** Atuar como **Desenvolvedor Júnior** em equipes ágeis, aplicando desenvolvimento de software focado em resolver problemas reais.
-   
+- 🔧 **Back-End & APIs:** Construção de APIs RESTful robustas e documentadas (Swagger/OpenAPI) utilizando **FastAPI**, **Django**, **Flask** e **Spring Boot**.
+- 🗄️ **Banco de Dados:** Modelagem, consultas SQL e otimização em **MySQL** e **SQLite**.
+- ✅ **Práticas & Qualidade:** Desenvolvimento orientado a boas práticas, aplicando **Clean Code**, princípios **SOLID** e lógica de regras de negócio.
+- 🎯 **Objetivo:** Atuar como **Engenheiro(a) de Software Júnior** em equipes ágeis, aplicando desenvolvimento de software focado em resolver problemas reais.
 
-
-Tenho focado em aplicar na prática os conceitos de Clean Code, SOLID e padrões de projeto para entregar códigos limpos, escaláveis e de fácil manutenção. Atualmente, busco integrar uma equipe de engenharia para somar com minhas habilidades e evoluir profissionalmente.
-
----
+Tenho focado em aplicar na prática os conceitos de **Clean Code**, **SOLID** e padrões de projeto para entregar códigos limpos, escaláveis e de fácil manutenção. Atualmente, busco integrar uma equipe de engenharia para somar com minhas habilidades e evoluir profissionalmente.
 
 ##  Stack Tecnológica & Ferramentas
 
