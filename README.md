@@ -16,7 +16,7 @@ Atuar em equipes ágeis como Desenvolvedor(a) Back-End, contribuindo com soluç�
 
 ---
 
-📍 Rio de Janeiro - Brasil · 📧 nteixeira814@gmail.com
+
 ##  Stack Tecnológica & Ferramentas
 
 ### Back-End & Lógicas
