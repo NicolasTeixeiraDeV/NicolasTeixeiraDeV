@@ -4,7 +4,7 @@
 
   <p>Estudante de <b>Análise e Desenvolvimento de Sistemas</b>, focado em escrever código limpo, estruturado e em constante evolução técnica. Apaixonado por resolver problemas complexos e criar aplicações eficientes.</p>
 
-  <h3>🚀 Stack Tecnológica & Ferramentas</h3>
+  <h3> Stack Tecnológica & Ferramentas</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -30,7 +30,5 @@
   </p>
 
 </div>
----
-###
 
 ![snake](https://raw.githubusercontent.com/NicolasTeixeiraDeV/NicolasTeixeiraDeV/output/github-contribution-grid-snake-dark.svg)
