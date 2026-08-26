@@ -5,7 +5,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, focado em escrever cód
 ##  Stack Tecnológica & Ferramentas
 
 ### Back-End & Lógicas
-### Stack Tecnológica & Ferramentas
 
 ### Stack Tecnológica & Ferramentas
  **Linguagens:** 
@@ -13,20 +12,20 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, focado em escrever cód
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-*   **Back-End:** 
+  **Back-End:** 
     ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
     ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
     ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-*   **Front-End & Web:**
+  **Front-End & Web:**
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
     ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-*   **Banco de Dados & Mensageria:**
+ **Banco de Dados & Mensageria:**
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
     ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-*   **Ambiente & Infraestrutura:** 
+   **Ambiente & Infraestrutura:** 
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
     ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
