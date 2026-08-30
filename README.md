@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Olá, me chamo Nicolas Teixeira! 👋</h1>
+  <h1>Olá, me chamo Nicolas Teixeira! </h1>
 
   <p>Estudante de <b>Análise e Desenvolvimento de Sistemas</b>, focado em escrever código limpo, estruturado e em constante evolução técnica. Apaixonado por resolver problemas complexos e criar aplicações eficientes.</p>
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+###  Tech Stack & Ferramentas
 
 ### Frontend
 <p align="left">
