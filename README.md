@@ -49,19 +49,4 @@ HTTP de segurança e prevenção de IDOR.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 📊 Estatísticas
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NicolasTeixeiraDeV&show_icons=true&theme=default&hide_border=true" alt="stats" />
-</p>
-
----
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasteixeiralima/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nteixeira814@gmail.com)
-
-
 ![snake](https://raw.githubusercontent.com/NicolasTeixeiraDeV/NicolasTeixeiraDeV/output/github-contribution-grid-snake-dark.svg)
