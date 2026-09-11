@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Nicolas Teixeira 👋</h1>
-<h3 align="center">Desenvolvedor Back-End Jr. | Python · Django · FastAPI · Flask · Java · Spring Boot</h3>
+<h3 align="center">Desenvolvedor Back-End Jr. | Python · Django · FastAPI · Flask · Java · Spring Boot </h3>
 
 <p align="center">
 Estudante de <b>Análise e Desenvolvimento de Sistemas</b>, migrando para o desenvolvimento de software
