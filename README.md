@@ -9,16 +9,6 @@ Hoje foco em construir APIs e aplicações backend robustas, seguras e bem estru
 
 ---
 
-### 🚀 Projeto em destaque
-
-**[Aplicação Web de Gestão Financeira Pessoal](https://github.com/NicolasTeixeiraDeV/financas-pessoais)**
-Flask · SQLAlchemy · SQLite · Chart.js
-Sistema de controle financeiro com dashboard em tempo real, arquitetura modular (Application Factory
-Pattern + Blueprints) e camada de segurança completa: proteção CSRF, hash de senhas com salt, headers
-HTTP de segurança e prevenção de IDOR.
-
----
-
 ### 🛠️ Tech Stack & Ferramentas
 
 **Back-end**
